@@ -1,0 +1,6 @@
+{
+    "homeTitle": "Welcome Message",
+    "homeIntroduction": "This text comes from i18next and is provided in english.",
+    "pageTitle": "Hello World",
+    "pageIntroduction": "This is a sample hello world text"
+}
